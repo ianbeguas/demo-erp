@@ -80,8 +80,8 @@ This project is open-source and may be used for educational or commercial purpos
 
 ```bash
 # Clone the repository
-git clone https://github.com/EdeesonOpina/laravue-erp.git
-cd laravue-erp
+git clone https://github.com/ianbeguas/demo-erp.git
+cd demo-erp
 
 # Install backend dependencies
 composer install
