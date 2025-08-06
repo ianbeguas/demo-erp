@@ -68,10 +68,6 @@ Designed with flexibility, security, and scalability in mind, this project serve
 Full-Stack Web Developer | Full Stack Web Developer 
 🌐 [https://porfolio-ichiro.vercel.app](https://porfolio-ichiro.vercel.app)
 
-**Edeeson Opina**  
-Full-Stack Web Developer | Full Stack Web Developer 
-🌐 [https://edeesonopina.vercel.app](https://edeesonopina.vercel.app)
-
 ---
 
 ## 📝 License
